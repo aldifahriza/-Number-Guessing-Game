@@ -25,4 +25,4 @@ Try it live here 👉 [Play the Game](https://aldifahriza.github.io/Number-Guess
 
 ---
 
-Made with ❤️ by [aldifahriza](https://github.com/aldifahriza)
+Made by [Fahriza haldi](https://github.com/aldifahriza)
